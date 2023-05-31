@@ -1,5 +1,7 @@
 # SBLOCKLAR
 
-Hello world! 👋 I'm Sarah Beth!
+**Hello world! 👋 I'm Sarah Beth!**
 
 (she/her/hers)
+
+### :fire: My Stats :
