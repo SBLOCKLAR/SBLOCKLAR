@@ -4,6 +4,8 @@
 
 (she/her/hers)
 
+[![2784258-removebg-preview.png](https://i.postimg.cc/jqJWkv3Z/2784258-removebg-preview.png)](https://postimg.cc/Lh26Jkp1)
+
 ## About Me 👩‍💻
 
 I'm a front-end website developer that recently completed a web developer bootcamp May 30, 2023. I am based in Brooklyn, NY, and I am open to roles in the NYC metropolitan area or remote positions anywhere in the US.
